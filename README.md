@@ -8,9 +8,9 @@ The system works like this:
 1 - Load a spreadsheet that contains 2 columns, namely "TITULO" and "RTF";
 <br />
 2 - The system will generate the .rtf files within the "rtf_files" fold and the .doc files within the "doc_files" fold, the file names will be those informed in the "TITULO" column of the spreadsheet and the contents of the files will be the "RTF" column of the spreadsheet.
-<br />
+<br /><br />
 In the repository you can find an example spreadsheet (.xlsx).
-<br />
+<br /><br />
 The system has already been published, just download and run the application: bin/Release/net8.0-windows/publish/WpfApp1.exe - The output directories for the files will be created automatically.
 <br /><br />
 Use however you want :)
