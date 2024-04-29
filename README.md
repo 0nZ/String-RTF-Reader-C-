@@ -1,7 +1,7 @@
 # String RTF Reader C#
 Simple RTF string converter.
 <br />
-Developed to meet a demand where I needed to export several lines of text in RTF format from a database and, later, read this spreadsheet (exported from DB) and transform the column that contained the RTF string into a text document in *.doce *.rtf formats.
+Developed to meet a demand where I needed to export several lines of text in RTF format from a database and, later, read this spreadsheet (exported from DB) and transform the column that contained the RTF string into a text document in *.doc and *.rtf formats.
 <br /><br />
 The system works like this:
 <br />
