@@ -11,7 +11,7 @@ The system works like this:
 <br /><br />
 In the repository you can find an example spreadsheet (.xlsx).
 <br /><br />
-##The system has already been published, just download and run the application: bin/Release/net8.0-windows/publish/WpfApp1.exe - The output directories for the files will be created automatically.##
+***The system has already been published, just download and run the application: bin/Release/net8.0-windows/publish/WpfApp1.exe - The output directories for the files will be created automatically.***
 <br /><br />
 Use however you want :)
 <br /><br />
