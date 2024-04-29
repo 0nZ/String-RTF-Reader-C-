@@ -10,7 +10,9 @@ The system works like this:
 2 - The system will generate the .rtf files within the "rtf_files" fold and the .doc files within the "doc_files" fold, the file names will be those informed in the "TITULO" column of the spreadsheet and the contents of the files will be the "RTF" column of the spreadsheet.
 <br />
 In the repository you can find an example spreadsheet (.xlsx).
+<br />
+The system has already been published, just download and run the application: bin/Release/net8.0-windows/publish/WpfApp1.exe - The output directories for the files will be created automatically.
 <br /><br />
 Use however you want :)
-<br />
+<br /><br />
 ![alt text](https://github.com/0nZ/String-RTF-Reader-C-/blob/main/screen.png?raw=true)
